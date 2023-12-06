@@ -1,0 +1,15 @@
+[General]
+ipc_version=4
+file=gowin_prom
+module=Gowin_pROM
+target_device=gw1nsr4c-000
+type=ram_prom
+version=1.0
+
+[Config]
+DEPTH=64
+LANG=0
+MEM_FILE=N:/EECS473/project/TranscriberGlasses/fpga/font_bitmaps.mi
+READ=0
+RESET_MODE=true
+WIDTH=64
