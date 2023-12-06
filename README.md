@@ -15,3 +15,10 @@ In this repo, you'll find individual tests for hardware parts, our PCB & schemat
  4. Set board to `ESP32-WROOM-DA` module ![](https://raw.githubusercontent.com/tom21487/TranscriberGlasses/master/Images%20%26%20Demos/Workspace%20Instructions/board-select.png?token=GHSAT0AAAAAACKQMVRMWN6B7DUIHOBMKKQCZLHCWVQ)
  6. Compile & Upload!
  
+## Contributors
+Daniel Calco, Jorge Garcia, Tom Jiao, Daniel Kennedy, Tiancheng Zhang
+
+## Acknowledgements
+We would like to thank Daniel Hepper for making his 8 by 8 bitmap fonts available in the public domain. His work is here: https://github.com/dhepper/font8x8 \
+We would like to thank Clifford Wolfe for making his FPGA HDMI Verilog code available under the ISC license. We used his code for the TMDS encoding needed in generating the HDMI signals. His work is here: https://github.com/cliffordwolf/SimpleVOut \
+We would like to thank Benoît Blanchon for providing his ArduinoJSON library, which is under the MIT license. We used the library’s JSON decoder to parse our API results. His work is here: https://arduinojson.org/
